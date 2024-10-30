@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **B.E (Information Science)**
+- 🌱**B.E (Information Science)**
 
 - 💬 Ask me about **| Adobe| C | Java | Andriod Development |**
 
