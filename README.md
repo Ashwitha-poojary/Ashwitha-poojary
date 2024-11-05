@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwitha</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/flat-hand-drawn-web-developers_23-2148828087.jpg?size=626&ext=jpg&ga=GA1.2.131322119.1686487653&semt=ais"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwitha-poojary&label=Profile%20views&color=0e75b6&style=flat" alt="ashwitha-poojary" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱**B.E (Information Science)**
 
-- 💬 Ask me about **| Adobe| C | Java | Andriod Development |**
+- 💬 Ask me about **Python, HTML, CSS, SQL, PySpark, Django, Apache Spark, Apache Airflow, ETL processes, Databricks, Power BI, Azure Cloud **
 
 - 📫 How to reach me **ashwithapoojary3012@gmail.com**
 
